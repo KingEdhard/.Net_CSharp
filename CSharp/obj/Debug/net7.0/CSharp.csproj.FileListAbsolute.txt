@@ -12,3 +12,17 @@ c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\refint\CSharp
 c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.pdb
 c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
 c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\ref\CSharp.dll
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\bin\Debug\net7.0\CSharp.exe
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\bin\Debug\net7.0\CSharp.deps.json
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\bin\Debug\net7.0\CSharp.dll
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\bin\Debug\net7.0\CSharp.pdb
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\CSharp.dll
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\refint\CSharp.dll
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\CSharp.pdb
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
+C:\Users\52477\Desktop\Desarrollo web\.Net\.Net Core\Curso_C#\CSharp\obj\Debug\net7.0\ref\CSharp.dll
