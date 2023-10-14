@@ -1,0 +1,14 @@
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\bin\Debug\net7.0\CSharp.exe
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\bin\Debug\net7.0\CSharp.deps.json
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\bin\Debug\net7.0\CSharp.runtimeconfig.json
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\bin\Debug\net7.0\CSharp.dll
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\bin\Debug\net7.0\CSharp.pdb
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.dll
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\refint\CSharp.dll
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.pdb
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\CSharp.genruntimeconfig.cache
+c:\Users\52477\Desktop\Desarrollo web\.Net\CSharp\obj\Debug\net7.0\ref\CSharp.dll
