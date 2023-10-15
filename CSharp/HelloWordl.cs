@@ -28,6 +28,29 @@ namespace CSharpHelloWorld
             string CadenaDeTexto ="Hola, esto es una cadena de texto";
             CadenaDeTexto = "Aquí cambió la cadena de texto";
             Console.WriteLine(CadenaDeTexto);
+
+            // Declaración de una variable entera
+            int numero = 10;
+            Console.WriteLine(numero);
+
+            Console.WriteLine( );
+
+            // Declaración de una variable de tipo cadena
+            string texto = "Hola, esto es una cadena de texto";
+            Console.WriteLine(texto);
+
+            Console.WriteLine( );
+
+            // Declaración de una variable booleana
+            bool esVerdadero = true;
+            Console.WriteLine(esVerdadero);
+
+            Console.WriteLine( );
+
+            // Declaración de una variable de tipo decimal
+            decimal precio = 19.99m;
+            Console.WriteLine(precio);
+
         }
     }
 
