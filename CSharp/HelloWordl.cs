@@ -115,6 +115,23 @@ namespace CSharpHelloWorld
         Console.WriteLine(conversionExitosa);
         Console.WriteLine( );
 
+        // Declaración e inicialización de variables de tipos primitivos
+        byte b = 200; // Un valor entre 0 y 255
+        sbyte sb = -100; // Un valor entre -128 y 127
+        short s = 30000; // Un valor entre -32768 y 32767
+        ushort us = 60000; // Un valor entre 0 y 65535
+        uint ui = 4000000000; // Un valor entre 0 y 4294967295
+        ulong ul = 10000000000000000000; // Un valor entre 0 y 18446744073709551615
+
+        // Uso de métodos para convertir, comparar o mostrar los valores
+        Console.WriteLine(b.ToString()); // Muestra "200"
+        Console.WriteLine(sb.GetHashCode()); // Muestra un código hash del valor de sb
+        Console.WriteLine(s.Equals(30000)); // Muestra "True"
+        Console.WriteLine(ushort.Parse("50000")); // Convierte la cadena "50000" en un ushort
+        Console.WriteLine(ui.CompareTo(3000000000)); // Compara ui con otro uint y muestra 1 si es mayor, -1 si es menor o 0 si es igual
+        Console.WriteLine(ulong.TryParse("123456789", out ulong result)); // Intenta convertir la cadena "123456789" en un ulong y lo almacena en result, devuelve true si tiene éxito o false si falla
+
+
 
 
         }
